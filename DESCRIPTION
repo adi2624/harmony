@@ -17,6 +17,7 @@ Authors@R: c(
         role = c("aut"), comment = c(ORCID = "0000-0002-1901-8265"))
     )
 Description: Implementation of the Harmony algorithm for single cell integration, described in Korsunsky et al <doi.org/10.1101/461954>. Package includes a standalone Harmony function and interfaces to external frameworks.
+SystemRequirements: C++11
 URL: software.broadinstitute.org/harmony
 License: GPL-3 + file LICENSE
 Encoding: UTF-8
